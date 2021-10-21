@@ -5,7 +5,6 @@ I predicted if the Falcon 9 first stage will land successfully. SpaceX advertise
 ### This Repository Consists of
 -  Data Collection Section
 -  Data Wrangling 
--  Data Analysis
 -  EDA with SQL
 -  Data Visulization 
 -  Data Visulization With Folium
