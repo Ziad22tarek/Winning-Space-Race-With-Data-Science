@@ -10,3 +10,4 @@ We predicted if the Falcon 9 first stage will land successfully. SpaceX advertis
 -  Data Visulization With Folium
 -  Dashboarding with Dash
 -  Modeling
+-  Powerpoint Presentation
